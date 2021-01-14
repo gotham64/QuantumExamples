@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gb9cbqWbns2aTk9Ugh2gB4yqVL+V7oFWoVmvRhECdCs2b/0i1Bwc+aagJmXFTrUX6FasURp7eE9QeVgcwgiTeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Chuck\\Desktop\\Module 6 - Additional QA\\Code\\C#\\QSharp - Getting Started\\Superposition\\Superposition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chuck\\.nuget\\packages\\microsoft.quantum.development.kit\\0.10.1912.501\\microsoft.quantum.development.kit.0.10.1912.501.nupkg.sha512",
+    "C:\\Users\\Chuck\\.nuget\\packages\\microsoft.quantum.simulators\\0.10.1912.501\\microsoft.quantum.simulators.0.10.1912.501.nupkg.sha512",
+    "C:\\Users\\Chuck\\.nuget\\packages\\microsoft.quantum.standard\\0.10.1912.501\\microsoft.quantum.standard.0.10.1912.501.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
